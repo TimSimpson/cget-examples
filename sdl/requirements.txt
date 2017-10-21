@@ -1,0 +1,3 @@
+pfultz2/pkgconfig
+pfultz2/cget-recipes
+sdl
